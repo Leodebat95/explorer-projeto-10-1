@@ -1,3 +1,11 @@
+# Exercício - API Restful
+
+Exercício #1 da Semana #10, de nome "Finalizando o RocketMovies". Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
+
+Este exercício é focado na integração entre Front-end e Back-end,
+aprofundando-se nos conceitos de ReactJS, React DOM, React Router DOM, CSS-in-JS, Componentes, props, Hooks (useState e useEffect),
+Contextos, CORS, Axios, JSON Web Token, Multer e como usar essas ferramentas em uma aplicação API Restful.
+
 # Exercise - API Restful
 
 Exercise #1 from Week #10, named "Finalizando o RocketMovies". Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
@@ -7,7 +15,7 @@ diving into the concepts of ReactJS, React DOM, React Router DOM, CSS-in-JS, Com
 Contexts, CORS, Axios, JSON Web Token, Multer and how to use these tools in an API Restful application.
 
 
-## Tools used in this project
+## Ferramentas utilizadas | Tools used in this project
 
 - HTML
 - CSS
