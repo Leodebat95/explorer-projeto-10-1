@@ -1,4 +1,4 @@
-# Exercício - API Restful
+# Exercício - API Restfulm
 
 Exercício #1 da Semana #10, de nome "Finalizando o RocketMovies". Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
 
